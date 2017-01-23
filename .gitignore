@@ -1,0 +1,15 @@
+*.*
+/*
+!/.gitignore
+!/LICENSE.txt
+!/README.md
+!/README.src.md
+!/setup.cfg
+!/setup.py
+!/src/
+!/src/**/
+!/src/**/*.py
+!/tools/
+!/tools/**/
+!/tools/**/*.py
+!/tools/**/*.txt
